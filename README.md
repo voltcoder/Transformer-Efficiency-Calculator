@@ -33,7 +33,18 @@ Where:
 
 ---
 
+##  How to Run
 
+1. Install Python (if not installed)
+2. Download the file `transformer_efficiency.py`
+3. Run using:
+   *python tranformer_efficiency.py*
+   
+4. Enter:
+   - Rated Power
+   - Load Percentage
+   - Full Load Copper Loss
+   - Iron Loss
 
 ---
 
