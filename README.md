@@ -22,6 +22,44 @@ Where:
 - Copper Loss ∝ (Load)^2
 - Iron Loss = Constant
 
+---
+
+##   Features
+
+✔ Calculates efficiency at any load percentage  
+✔ Considers square relationship of copper loss  
+✔ Simple and beginner-friendly Python implementation  
+✔ Useful for Electrical Engineering students and interviews  
+
+---
+
+
+
+---
+
+##  Sample Input
+
+Rated Power = 100 kW  
+Load Percentage = 80%  
+Full Load Copper Loss = 4 kW  
+Iron Loss = 2 kW  
+
+---
+
+##  Sample Output
+
+Efficiency at 80% load = 96.15%
+
+---
+
+##  Learning Outcome
+
+This project strengthens understanding of:
+
+- Transformer losses
+- Efficiency calculation
+- Load variation effect
+- Basic Python programming
 
 ---
 # INSHORT
