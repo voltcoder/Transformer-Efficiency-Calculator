@@ -23,7 +23,7 @@ try:
 
        # Check for maximum efficiency condition
          if abs(copper_loss - iron_loss) < 0.01:
-    print("\nTransformer is operating at maximum efficiency condition.")
+            print("\nTransformer is operating at maximum efficiency condition.")
 
         # Output results
         print(f"\nOutput Power = {output_power:.2f} kW")
